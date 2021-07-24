@@ -1,0 +1,86 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+  background: url("https://wallpaperaccess.com/full/1201238.jpg");
+}
+button {
+  height: 10rem;
+  width: 10rem;
+  background: #6f26fb;
+  margin: 0.1rem;
+  font-size: 1rem;
+  color: white;
+}
+.back-button {
+  height: 3rem;
+  color: black;
+  background: white;
+  border-radius: 2rem;
+}
+.arrow {
+  font-size: 2rem;
+}
+
+.aot input {
+  width: 5rem;
+  height: 3rem;
+  font-size: 2rem;
+}
+
+.aot button {
+  height: 3rem;
+  background: white;
+  color: black;
+  border-radius: 2rem;
+}
+
+.aot h3 {
+  background-color: #9fc8fe;
+  display: inline;
+  padding: 1rem;
+  border: 1px solid black;
+}
+
+.hyp img {
+  width: 15rem;
+}
+
+.submit {
+  height: 3rem;
+  background: white;
+  color: black;
+  border-radius: 2rem;
+  margin: 1.5rem 0;
+}
+
+.hyp h3 {
+  background-color: #9fc8fe;
+  display: inline;
+  padding: 1rem;
+  border: 1px solid black;
+}
+
+.ca button {
+  height: 4rem;
+}
+
+.ca input {
+  width: 5rem;
+  height: 3rem;
+  font-size: 2rem;
+  margin: 2rem;
+}
+
+form {
+  text-align: left;
+  padding-left: 3rem;
+  margin: auto;
+  width: 70%;
+}
+
+.block {
+  margin-top: 1.5rem;
+}
